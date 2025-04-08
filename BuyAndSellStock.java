@@ -1,10 +1,3 @@
-//You are given an array prices where prices[i] is the price of a stock on the i-th day.
-//
-//Your goal is to maximize your profit by choosing one day to buy and one day to sell the stock later.
-//
-//👉 Return the maximum profit you can achieve from this transaction.
-//If you can’t make a profit, return 0.
-
 //You get an array of prices like:
 //[7, 1, 5, 3, 6, 4]
 //Each number = stock price on that day (index = day number).
